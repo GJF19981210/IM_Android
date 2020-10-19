@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IM_Android.iml" filepath="$PROJECT_DIR$/.idea/modules/IM_Android.iml" group="IM_Android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OpenGLlibrary/OpenGLlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/OpenGLlibrary/OpenGLlibrary.iml" group="IM_Android/OpenGLlibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YZxing-lib/YZxing-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/YZxing-lib/YZxing-lib.iml" group="IM_Android/YZxing-lib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jcvideoplayer-lib/jcvideoplayer-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/jcvideoplayer-lib/jcvideoplayer-lib.iml" group="IM_Android/jcvideoplayer-lib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meeting/meeting.iml" filepath="$PROJECT_DIR$/.idea/modules/meeting/meeting.iml" group="IM_Android/meeting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pullToRefershLibraryMy/pullToRefershLibraryMy.iml" filepath="$PROJECT_DIR$/.idea/modules/pullToRefershLibraryMy/pullToRefershLibraryMy.iml" group="IM_Android/pullToRefershLibraryMy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/skWeiChatBaidu/skWeiChatBaidu.iml" filepath="$PROJECT_DIR$/.idea/modules/skWeiChatBaidu/skWeiChatBaidu.iml" group="IM_Android/skWeiChatBaidu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swiperecyclerview/swiperecyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/swiperecyclerview/swiperecyclerview.iml" group="IM_Android/swiperecyclerview" />
+    </modules>
+  </component>
+</project>

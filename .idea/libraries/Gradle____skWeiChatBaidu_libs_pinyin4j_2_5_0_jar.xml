@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./skWeiChatBaidu/libs/pinyin4j-2.5.0.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/skWeiChatBaidu/libs/pinyin4j-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

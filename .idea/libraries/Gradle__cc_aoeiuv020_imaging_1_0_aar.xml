@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cc.aoeiuv020:imaging:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdeb3ed2095278337b41d38534e65fe4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cdeb3ed2095278337b41d38534e65fe4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cc.aoeiuv020/imaging/1.0/dc2663c8c3342e3feec60e8a197cabec8139d7b8/imaging-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

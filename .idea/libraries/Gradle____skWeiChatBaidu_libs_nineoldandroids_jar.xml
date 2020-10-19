@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./skWeiChatBaidu/libs/nineoldandroids.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/skWeiChatBaidu/libs/nineoldandroids.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

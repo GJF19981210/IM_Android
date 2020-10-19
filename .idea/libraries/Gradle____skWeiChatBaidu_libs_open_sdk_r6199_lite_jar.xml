@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./skWeiChatBaidu/libs/open_sdk_r6199_lite.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/skWeiChatBaidu/libs/open_sdk_r6199_lite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

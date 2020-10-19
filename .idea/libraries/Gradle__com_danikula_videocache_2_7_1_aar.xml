@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.danikula:videocache:2.7.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/701280714ddb6e83d9a820a145d970d4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/701280714ddb6e83d9a820a145d970d4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.danikula/videocache/2.7.1/c5c4757157deba39685f50a2c664801a7534bcc6/videocache-2.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

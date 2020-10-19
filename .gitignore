@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/pullToRefershLibraryMy/build/
+/pullToRefershLibraryMy/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/skWeiChatBaidu/build/
+/skWeiChatBaidu/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
